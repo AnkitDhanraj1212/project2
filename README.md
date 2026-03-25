@@ -1,3 +1,3 @@
 # NEW Project
 
-this project was created on local host
+this project was created on local host.
